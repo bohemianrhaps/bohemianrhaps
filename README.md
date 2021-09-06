@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aleyna
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Phyton
+- 📫 How to reach me yaleynay20@gmail.com
